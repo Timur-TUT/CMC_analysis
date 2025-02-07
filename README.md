@@ -51,6 +51,5 @@ T. A. Khudayberganov
 
 ## Version History
 
-* 1.0
+* 1.0 - January 14, 2025
     * Initial Release
-
